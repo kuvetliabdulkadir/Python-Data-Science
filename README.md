@@ -38,4 +38,4 @@ jupyter notebook main_final.ipynb
 
 ---
 
-* Abdulkadir Kuvetli[https://kuvetliabdulkadir.com/]
+* [Abdulkadir Kuvetli](https://kuvetliabdulkadir.com)
