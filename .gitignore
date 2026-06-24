@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+ 
+# IDE
+.idea/
+.vscode/
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Eski klasör
+eski/
+ 
